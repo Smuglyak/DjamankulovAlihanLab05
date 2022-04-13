@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll.config
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.Properties.Resources.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab05\DjamankulovAlihanLab05\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb

@@ -1,0 +1,5 @@
+135,Alihan,Djamnakulov,-18.65
+245,Esender,Sanji,689.34
+355,Anara,Luffy,865.45
+465,Ata,Lullaby,325.85
+575,Apa,FullMetalAlchemist,0.00
